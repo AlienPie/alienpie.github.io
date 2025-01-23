@@ -1,4 +1,4 @@
-<p align=i"center" />![example workflow](https://github.com/alienpie/alienpie.github.io/actions/workflows/hugo.yaml/badge.svg)
+![example workflow](https://github.com/alienpie/alienpie.github.io/actions/workflows/hugo.yaml/badge.svg)
 
 ## Stan Jewhurst | Personal Blog
 
