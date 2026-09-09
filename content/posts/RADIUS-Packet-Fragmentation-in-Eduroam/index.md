@@ -6,7 +6,7 @@ tags:
 - RADIUS
 - Troubleshooting
 - CERN
-description: Students from a visiting school could not get onto eduroam with using certificates. The cause turned out to be an ACL in our own network quietly dropping the non-initial fragments of large RADIUS packets.
+description: Students from a visiting school could not get onto eduroam using certificates. The cause turned out to be an ACL in our own network quietly dropping the non-initial fragments of large RADIUS packets.
 date: '2026-09-09T14:58:15+02:00'
 # weight: 1
 # aliases: ["/first"]
